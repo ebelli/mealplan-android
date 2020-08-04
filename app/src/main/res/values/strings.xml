@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Meal Plan</string>
+    <string name="meal_type">Type</string>
+</resources>
